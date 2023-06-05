@@ -1,1 +1,2 @@
 # movie_dataset_exploratory_analysis
+In this analysis, I will be investigating a question associated with the collection Disney's Character Success datasets. Question: I am interested in finding out which genres and directors created maximum revenue for Disney based on the available information in the given datasets.The reason because I am exploring this particular question is because I am curious about knowing what kind of movies people are interested in and generating revenue.
